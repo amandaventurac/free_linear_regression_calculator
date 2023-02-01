@@ -1,0 +1,2 @@
+# free_linear_regression_calculator
+This repository contains the free_linear_regression_calculator.exe file
