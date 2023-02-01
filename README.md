@@ -1,10 +1,9 @@
 # free_linear_regression_calculator
 
-This repository contains the executable file 'free_linear_regression_calculator.exe'.  
+You can download it for free here: https://drive.google.com/drive/folders/1rKAFWgkesNOX4w2LVAOklPIq_PzVUNJx?usp=sharing, and run it on Windows.  
 
 This tiny application was created to help students, researchers, and others that need to perform linear regression on '.csv' files. This idea arose during my Ph.D. , when I had to fit many experimental curves daily.  
 
-You can download it for free here: https://drive.google.com/drive/folders/1rKAFWgkesNOX4w2LVAOklPIq_PzVUNJx?usp=sharing, and run it on Windows. 
 
 Using this application takes no more than 7 steps:  
 
